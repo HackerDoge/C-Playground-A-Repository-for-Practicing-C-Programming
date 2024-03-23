@@ -1,5 +1,0 @@
-INTRODUCTION
-
-Hashing is a process of converting data (like text or files) into a fixed-length string of characters, known as a hash value. 
-It's commonly used for data retrieval and verification because even a small change in the original data results in a significantly 
-different hash, making it useful for tasks like password storage and data integrity checks.
